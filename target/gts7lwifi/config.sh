@@ -15,7 +15,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-# Device configuration file for Galaxy Tab S7+ (WIFI) (gts7xlwifi)
+# Device configuration file for Galaxy Tab S7 (WIFI) (gts7lwifi)
 TARGET_NAME="Galaxy Tab S7 (wifi)"
 TARGET_CODENAME="gts7lwifi"
 TARGET_ASSERT_MODEL=("SM-T870")
@@ -24,9 +24,7 @@ TARGET_EXTRA_FIRMWARES=()
 TARGET_API_LEVEL=33
 TARGET_PRODUCT_FIRST_API_LEVEL=30
 TARGET_VENDOR_API_LEVEL=30
-TARGET_SINGLE_SYSTEM_IMAGE="gts9pwifi"
 TARGET_OS_FILE_SYSTEM="ext4"
-TARGET_FS_CHANGED="true"
 TARGET_SUPER_PARTITION_SIZE=10292822016
 TARGET_SUPER_GROUP_SIZE=10288627712
 TARGET_HAS_SYSTEM_EXT=false
